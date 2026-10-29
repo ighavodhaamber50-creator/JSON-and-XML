@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="movies.xsl"?>
+<movies>
+
+  <movie>
+    <title>The Lion King</title>
+    <director>Jon Favreau</director>
+    <rating>5</rating>
+  </movie>
+
+  <movie>
+    <title>Inception</title>
+    <director>Christopher Nolan</director>
+    <rating>5</rating>
+  </movie>
+
+  <movie>
+    <title>Black Panther</title>
+    <director>Ryan Coogler</director>
+    <rating>4</rating>
+  </movie>
+
+  <movie>
+    <title>Coming to America</title>
+    <director>John Landis</director>
+    <rating>4</rating>
+  </movie>
+
+  <movie>
+    <title>Morbius</title>
+    <director>Daniel Espinosa</director>
+    <rating>2</rating>
+  </movie>
+
+</movies>

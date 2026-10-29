@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="song_xslt.xsl"?>
+<music_library>
+
+  <album id="album-01" genre="afrobeats" year="2019">
+    <title>African Giant</title>
+    <artist>Burna Boy</artist>
+    <label>Atlantic Records</label>
+    <musicians>
+      <musician role="vocalist">Burna Boy</musician>
+      <musician role="producer">Leriq</musician>
+      <musician role="guitarist">Cobhams Asuquo</musician>
+    </musicians>
+    <songs>
+      <song id="song-01" track="1" duration="3:45">
+        <title>Gbona</title>
+        <featuring>None</featuring>
+      </song>
+      <song id="song-02" track="2" duration="4:10">
+        <title>Anybody</title>
+        <featuring>None</featuring>
+      </song>
+      <song id="song-03" track="3" duration="3:58">
+        <title>Killin Dem</title>
+        <featuring>Zlatan</featuring>
+      </song>
+    </songs>
+  </album>
+
+  <album id="album-02" genre="hip-hop" year="2018">
+    <title>Black Panther: The Album</title>
+    <artist>Various Artists</artist>
+    <label>Top Dawg Entertainment</label>
+    <musicians>
+      <musician role="vocalist">Kendrick Lamar</musician>
+      <musician role="vocalist">SZA</musician>
+      <musician role="producer">Sounwave</musician>
+      <musician role="bassist">Thundercat</musician>
+    </musicians>
+    <songs>
+      <song id="song-04" track="1" duration="4:04">
+        <title>Black Panther</title>
+        <featuring>None</featuring>
+      </song>
+      <song id="song-05" track="2" duration="3:55">
+        <title>All the Stars</title>
+        <featuring>SZA</featuring>
+      </song>
+      <song id="song-06" track="3" duration="3:30">
+        <title>Pray for Me</title>
+        <featuring>The Weeknd</featuring>
+      </song>
+    </songs>
+  </album>
+
+  <album id="album-03" genre="highlife" year="1977">
+    <title>Gentleman</title>
+    <artist>Fela Kuti</artist>
+    <label>Coconut Records</label>
+    <musicians>
+      <musician role="vocalist">Fela Kuti</musician>
+      <musician role="drummer">Tony Allen</musician>
+      <musician role="saxophonist">Fela Kuti</musician>
+      <musician role="trumpeter">Tunde Williams</musician>
+    </musicians>
+    <songs>
+      <song id="song-07" track="1" duration="14:32">
+        <title>Gentleman</title>
+        <featuring>None</featuring>
+      </song>
+      <song id="song-08" track="2" duration="12:48">
+        <title>Fefe Naa Efe</title>
+        <featuring>None</featuring>
+      </song>
+    </songs>
+  </album>
+
+  <album id="album-04" genre="pop" year="2021">
+    <title>Certified Lover Boy</title>
+    <artist>Drake</artist>
+    <label>Young Money</label>
+    <musicians>
+      <musician role="vocalist">Drake</musician>
+      <musician role="producer">Noah "40" Shebib</musician>
+      <musician role="producer">Noel Cadastre</musician>
+    </musicians>
+    <songs>
+      <song id="song-09" track="1" duration="3:12">
+        <title>Champagne Poetry</title>
+        <featuring>None</featuring>
+      </song>
+      <song id="song-10" track="2" duration="3:04">
+        <title>TSU</title>
+        <featuring>None</featuring>
+      </song>
+      <song id="song-11" track="3" duration="2:55">
+        <title>Way 2 Sexy</title>
+        <featuring>Future, Young Thug</featuring>
+      </song>
+    </songs>
+  </album>
+
+</music_library>

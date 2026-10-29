@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "title": "Inception",
+      "director": "Christopher Nolan",
+      "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+      "rating": 4.8
+    },
+    {
+      "title": "Black Panther",
+      "director": "Ryan Coogler",
+      "cast": ["Chadwick Boseman", "Michael B. Jordan", "Lupita Nyong'o"],
+      "rating": 4.2
+    },
+    {
+      "title": "The Lion King",
+      "director": "Jon Favreau",
+      "cast": ["Donald Glover", "Beyonce", "James Earl Jones"],
+      "rating": 4.0
+    },
+    {
+      "title": "Coming to America",
+      "director": "John Landis",
+      "cast": ["Eddie Murphy", "Arsenio Hall", "James Earl Jones"],
+      "rating": 4.5
+    },
+    {
+      "title": "Morbius",
+      "director": "Daniel Espinosa",
+      "cast": ["Jared Leto", "Matt Smith", "Adria Arjona"],
+      "rating": 2.5
+    }
+  ]
+}

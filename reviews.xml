@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="reviews.xsl"?>
+<reviews>
+
+  <review>
+    <author>Chidi Okeke</author>
+    <movie>Inception</movie>
+    <comment>A mind-bending thriller that keeps you guessing till the end.</comment>
+    <rating>4.8</rating>
+  </review>
+
+  <review>
+    <author>Amara Nwosu</author>
+    <movie>Morbius</movie>
+    <comment>Poorly written plot with very little character development.</comment>
+    <rating>2.5</rating>
+  </review>
+
+  <review>
+    <author>Tunde Bello</author>
+    <movie>Black Panther</movie>
+    <comment>A cultural landmark in superhero cinema. Visually stunning.</comment>
+    <rating>4.2</rating>
+  </review>
+
+  <review>
+    <author>Ngozi Adaeze</author>
+    <movie>Aquaman</movie>
+    <comment>Fun but forgettable. The underwater scenes were impressive though.</comment>
+    <rating>3.5</rating>
+  </review>
+
+  <review>
+    <author>Emeka Eze</author>
+    <movie>The Flash</movie>
+    <comment>Interesting concept but the execution fell short of expectations.</comment>
+    <rating>3.2</rating>
+  </review>
+
+  <review>
+    <author>Sola Adeyemi</author>
+    <movie>Interstellar</movie>
+    <comment>An emotional and visually breathtaking sci-fi masterpiece.</comment>
+    <rating>4.9</rating>
+  </review>
+
+  <review>
+    <author>Kemi Fashola</author>
+    <movie>Shazam</movie>
+    <comment>Lighthearted and enjoyable but nothing groundbreaking.</comment>
+    <rating>3.7</rating>
+  </review>
+
+  <review>
+    <author>Biodun Lawal</author>
+    <movie>Venom</movie>
+    <comment>Decent action sequences but the story was all over the place.</comment>
+    <rating>3.0</rating>
+  </review>
+
+  <review>
+    <author>Amber Ighavodha</author>
+    <movie>Pacific rim</movie>
+    <comment>An action sci-fi film with impressive visual effects that is indeed way ahead of its time.</comment>
+    <rating>5.0</rating>
+  </review>
+
+    <review>
+    <author>Annabel Ighavodha</author>
+    <movie>Encanto</movie>
+    <comment>A heartwarming and visually stunning animated film.</comment>
+    <rating>4.6</rating>
+  </review>
+
+    <review>
+    <author>Adele Ighavodha</author>
+    <movie>Barbie and the secret door</movie>
+    <comment>A fun and engaging animated film with great characters.</comment>
+    <rating>3.8</rating>
+  </review>
+
+</reviews>
